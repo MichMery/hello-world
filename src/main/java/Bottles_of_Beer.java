@@ -23,8 +23,7 @@ public class Bottles_of_Beer {
 			if (i==1) {
 				System.out.println(+i + " bottle of beer on the wall, "+ i+ " bottle of beer");
 				System.out.println("Take it down and pass it around - no more bottles of beer on the wall");
-				System.out.println("Take it down and pass it around - no more bottles of beer on the wall");
-				
+							
 			}
 		};
 		
